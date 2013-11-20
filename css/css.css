@@ -764,3 +764,21 @@ line-height: 25px;
     padding-left: 20px;
     border-left: 1px solid #999;
 }
+
+/* STORIES */
+
+#stories-container {
+	width: 960px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	background: rgb(255, 255, 255); /* The Fallback */
+    background: rgba(255, 255, 255, 0.9);  
+}
+
+#stories-container > ul > li {
+	display: block;
+	float: left;
+	width: 300px;
+}
