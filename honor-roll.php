@@ -26,122 +26,83 @@ Search by name, year, affiliation, or gift society
 
 <div class="clear"></div>
 
-<!-- INTRO SLIDER -->
-<div class="container">
-<div class="p1"><img src="../2011-12/images/purposeful.png" alt="Proud"/></div><div class="p2"><img src="../2011-12/images/profound.png" alt="Pathbreaking"/></div><div class="p3"><img src="../2011-12/images/p3.png" alt="Philanthropy"/></div>
-                <ul class="bb-custom-grid" id="bb-custom-grid">
-                    <li style="margin-right: 15px;">
-                        <div class="bb-bookblock">
-                            <div class="bb-item"><a href="articles/josh-katz.php"><img src="images/thumbs/image-3-thumb.jpg" alt="Beyond the comfort zone" border="0" title="Beyond the comfort zone - read more"/></a></div>
-                            <div class="bb-item"><a href="articles/dizikes.php"><img src="images/thumbs/image-4-thumb.jpg" alt="Honoring outstanding teaching in the humanities" border="0" title="Honoring outstanding teaching in the humanities - read more"/></a></div>
-                           
-                        </div>
-                        <nav>
-                            <span class="bb-current" style="font-size: 10px; color: #00458c; padding-top: 2px;">1</span>
-                            <span style="font-size: 10px; color: #00458c; padding-top: 2px;">2</span>
-                           <!-- <span></span> -->
-                            
-                        </nav>
-                    </li>
-                    <li style="margin-right: 15px;">
-                        
-                        <div class="bb-bookblock">
-                            <div class="bb-item"><a href="articles/watts-carson.php"><img src="images/thumbs/image-5-thumb.jpg" alt="Gabe Zimmerman's memory lives on in scholarship" border="0" title="Ready for the spotlight - read more"/></a></div>
-                        </div>
-                        <nav>
-                            <span class="bb-current" style="font-size: 10px; color: #00458c; padding-top: 2px;">1</span>
-                        </nav>
-                    </li>
-                    <li>
-                        
-                        <div class="bb-bookblock">
-                            <div class="bb-item"><a href="articles/karen-rhodes.php"><img src="images/thumbs/image-2-thumb.jpg" alt="Giving back by paying forward" border="0" title="Giving back by paying forward - read more"/></a></div>
-                            <div class="bb-item"><a href="articles/early-education.php"><img src="images/thumbs/image-1-thumb.jpg" alt="Child's play = new research" border="0" title="Child's play = new research - read more"/></a></div>
-                           
-                        
-                        </div>
-                        <nav>
-                            <span class="bb-current" style="font-size: 12px; color: #00458c; padding-top: 2px;">1</span>
-                            <span style="font-size: 10px; color: #00458c; padding-top: 2px;">2</span>
-                             
-                            
-                        </nav>
-                    </li>
-                </ul>
-</div>  
-<!-- slider -->
-<link rel="stylesheet" type="text/css" href="../2011-12/css/slider.css" />
-<link rel="stylesheet" type="text/css" href="../2011-12/css/custom2.css" />            
-<script type="text/javascript" src="../2011-12/js/jquerypp.custom.js"></script>
-<script type="text/javascript" src="../2011-12/js/jquery.bookblock.js"></script>
-<script type="text/javascript">
-            $(function() {
 
-                var Page = (function() {
+<!--ROTATOR-->
+<div class="rotator-container">
+<div id="cbp-qtrotator" class="cbp-qtrotator">
+					<div class="cbp-qtcontent">
+						<img src="images/profiles/donka.jpg" alt="John Dizikes" />
+						<blockquote>
+                        <h2>Outstanding teaching in the humanities</h2>
+						  <p>The Dizikes teaching award—named for professor emeritus of American studies John Dizikes—celebrates the Humanities faculty's commitment to excellence in teaching and its impact on undergraduate students.</p>
+						  <footer>Read More</footer>
+						</blockquote>
+					</div>
+					<div class="cbp-qtcontent">
+						<img src="images/profiles/carson.jpg" alt="Carson Watts" />
+						<blockquote>
+                        <h2>Gabe Zimmerman's memory lives on in scholarship</h2>
+						  <p>Student Carson Watts was the second winner of the Gabriel Zimmerman Memorial Scholarship, which supports students who are passionate about social issues and committed to public service.</p>
+						  <footer>Read More</footer>
+						</blockquote>
+					</div>
+					<div class="cbp-qtcontent">
+						<img src="images/profiles/josh.jpg" alt="img03" />
+						<blockquote>
+                        <h2>Beyond the comfort zone</h2>
+						  <p>With the help of an Irwin Project Grant, which funds student art projects on campus, art and psychology major Josh Katz launched a new trajectory of art-making.</p>
+						  <footer>Read More</footer>
+						</blockquote>
+					</div>
+					<div class="cbp-qtcontent">
+						<img src="images/profiles/karen.jpg" alt="img04" />
+						<blockquote>
+                        <h2>Giving back by paying forward</h2>
+						  <p>Karen Rhodes and her husband, fellow Slug Robert Weiner, have been consistent, reliable donors to UC Santa Cruz, providing valuable support for Cowell College, the History Department, scholarships, and more.</p>
+						  <footer>Read More</footer>
+						</blockquote>
+					</div>
+                    <div class="cbp-qtcontent">
+						<img src="images/profiles/infant.jpg" alt="img04" />
+						<blockquote>
+                        <h2>Child's play = new research</h2>
+						  <p>A $165,000 grant to UCSC's Early Education Services has enabled the program to extend childcare hours for students' children and provide an observation room for developmental psychology research.</p>
+						  <footer>Read More</footer>
+						</blockquote>
+					</div>
+				</div>
+                </div>
+<link rel="stylesheet" type="text/css" href="css/rotator.css" />
+<script src="js/jquery.cbpQTRotator.min.js"></script>
+<script>
+			$( function() {
+				/*
+				- how to call the plugin:
+				$( selector ).cbpQTRotator( [options] );
+				
+				{
+					// default transition speed (ms)
+					speed : 700,
+					// default transition easing
+					easing : 'ease',
+					// rotator interval (ms)
+					interval : 8000
+				}
+				- destroy:
+				$( selector ).cbpQTRotator( 'destroy' );
+				*/
+				$( '#cbp-qtrotator' ).cbpQTRotator();
 
-                    var $grid = $( '#bb-custom-grid' );
+			} );
+		</script>
+        <script language="javascript">
+			var divs = $("div.cbp-qtcontent").get().sort(function(){ 
+ 				return Math.round(Math.random())-0.5; //random so we get the right +/- combo
+			    }).slice(0,4)
+			$(divs).appendTo(divs[0].parentNode).show();
+		</script>
 
-                    return {
-
-                        init : function() {
-
-                            $grid.find( 'div.bb-bookblock' ).each( function( i ) {
-                                
-                                var $bookBlock =    $( this ),
-                                        $nav =  $bookBlock.next().children( 'span' ),
-                                        bb =    $bookBlock.bookblock( {
-                                            perspective : 900,
-                                            speed               : 600,
-                                            shadows         : false
-                                        } );
-                                    
-                                // add navigation events
-                                $nav.each( function( i ) {
-                                
-                                    $( this ).on( 'click', function( event ) {
-                                        
-                                        var $dot = $( this );
-                                        if( !bb.isActive() ) {
-                                            $nav.removeClass( 'bb-current' );
-                                            $dot.addClass( 'bb-current' );
-                                        }
-                                        bb.jump( i + 1 );
-                                        return false;
-                                    
-                                    } );
-                                    
-                                } );
-                                
-                                // add swipe events
-                                $bookBlock.children().on( {
-
-                                    'swipeleft'     : function( event ) {
-                                    
-                                        bb.next();
-                                        return false;
-
-                                    },
-                                    'swiperight'    : function( event ) {
-                                    
-                                        bb.prev();
-                                        return false;
-                                        
-                                    }
-
-                                } );
-                                
-                            } );
-
-                        }
-                    
-                    };
-
-                })();
-
-                Page.init();
-
-            });
-        </script>
+<!--END ROTATOR-->
 </div>
 
 <div class="clear"></div>

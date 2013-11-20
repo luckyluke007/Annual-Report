@@ -70,7 +70,7 @@
 	font-size: 1.25em;
 	color: #888;
 	font-weight: 300;
-	margin: 0.4em 0 1em;
+	margin: 0.4em 0 2em;
 }
 
 .cbp-qtrotator blockquote footer {
@@ -90,6 +90,9 @@
 	-webkit-border-radius: 5px;
 	-o-border-radius: 5px;
 	border-bottom: 1px solid #ddd;
+	padding: 10px;
+	background: rgb(0, 0,0); /* The Fallback */
+    background: rgba(0, 0, 0, 0.5); 
 }
 
 /* Example for media query */

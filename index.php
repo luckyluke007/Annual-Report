@@ -74,6 +74,14 @@ this.posterImage.show();
 						  <footer>Read More</footer>
 						</blockquote>
 					</div>
+                    <div class="cbp-qtcontent">
+						<img src="images/profiles/infant.jpg" alt="img04" />
+						<blockquote>
+                        <h2>Child's play = new research</h2>
+						  <p>A $165,000 grant to UCSC's Early Education Services has enabled the program to extend childcare hours for students' children and provide an observation room for developmental psychology research.</p>
+						  <footer>Read More</footer>
+						</blockquote>
+					</div>
 				</div>
                 </div>
 <link rel="stylesheet" type="text/css" href="css/rotator.css" />
