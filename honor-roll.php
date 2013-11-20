@@ -9,7 +9,7 @@
 <![endif]-->
 <div class="content">
 <h1>Honor Roll 2012-13</h1>
-<link rel="stylesheet" type="text/css" href="../2011-12/css/buttons.css" />
+<link rel="stylesheet" type="text/css" href="css/buttons.css" />
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <div class="left-column-13">
 <h3>download</h3>
