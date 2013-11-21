@@ -768,11 +768,15 @@ line-height: 25px;
 /* STORIES */
 
 #stories-container {
-	width: 920px;
-	border-radius: 5px;
-	-webkit-border-radius: 5px;
-	-moz-border-radius: 5px;
-	-o-border-radius: 5px;
+	width: 960px;
+	border-bottom-left-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-bottom-left-radius: 5px;
+	-o-border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-bottom-right-radius: 5px;
+	-o-border-bottom-right-radius: 5px;
 	background: rgb(255, 255, 255); /* The Fallback */
     background: rgba(255, 255, 255, 0.9);  
 }
@@ -806,4 +810,24 @@ line-height: 25px;
 	font-size: 1.5em;
 	font-weight: normal;
 	color: #00458c;
+}
+#stories-fall, #stories-winter, #stories-spring, #stories-summer {
+	width: 99%;
+	padding: 15px;
+	color: #FFF;
+	border-top-left-radius: 5px;
+	-webkit-border-top-left-radius: 5px;
+	-moz-border-top-left-radius: 5px;
+	-o-border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-top-right-radius: 5px;
+	-o-border-top-right-radius: 5px;
+	border-bottom: 1px solid #ccc;
+}
+#stories-fall {
+	background: #88C425;
+}
+#stories-winter {
+	background: #005395;
 }
