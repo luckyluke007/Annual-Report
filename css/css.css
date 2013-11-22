@@ -778,7 +778,9 @@ line-height: 25px;
 	-moz-border-bottom-right-radius: 5px;
 	-o-border-bottom-right-radius: 5px;
 	background: rgb(255, 255, 255); /* The Fallback */
-    background: rgba(255, 255, 255, 0.9);  
+    background: rgba(255, 255, 255, 0.9);
+	margin-bottom: 15px;
+	border-bottom: 1px solid #ccc;
 }
 
 #stories-container > ul {
@@ -810,6 +812,21 @@ line-height: 25px;
 	font-size: 1.5em;
 	font-weight: normal;
 	color: #00458c;
+}
+#stories-archives {
+	width: 99%;
+	background: #ebebeb;
+	border-radius: 2px;
+	-webkit-border-radius:5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	padding: 15px;
+	border-bottom: 1px solid #ccc;
+	text-align: right;
+	
+}
+#stories-archives a:before {
+	content: "» ";
 }
 #stories-fall, #stories-winter, #stories-spring, #stories-summer {
 	width: 99%;
