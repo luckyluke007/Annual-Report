@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Gabe Zimmerman's memory lives on in scholarship | 2012-13 Annual Report on Philanthropy</title>
 <?php include("../includes/sub-header.php"); ?>
-<link href="../../2011-12/css/articles.css" rel="stylesheet" type="text/css" />
+<link href="../css/articles.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
 .photo > .storyimage > .storyimage {
     background-image: url(../images/watts-carson.jpg) !important;
@@ -31,7 +31,7 @@
  
         <!-- LEFT -->
    <div class="article">
-        <img src="../../2011-12/images/profound-small.png" class="title" alt="Profound" style="margin-top:-25px !important;"/>
+        <img src="../images/profound-small.png" class="title" alt="Profound" style="margin-top:-25px !important;"/>
             <div class="image"><div class="photo" title="Carson Watts"><div class="storyimage"><div class="storyimage"></div></div>
             <div class="sharethis">
 <p><span class='st_facebook_large' displayText='Facebook'></span>

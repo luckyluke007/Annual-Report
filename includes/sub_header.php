@@ -8,7 +8,7 @@
 <link href="../css/video-js.css" rel="stylesheet" type="text/css">
 
 <!--[if IE 8]>
-    <link rel="stylesheet" type="text/css" href="../../2011-12/css/ie8.css">
+    <link rel="stylesheet" type="text/css" href="../css/ie8.css">
 <![endif]-->
 
 <!-- FONTS -->

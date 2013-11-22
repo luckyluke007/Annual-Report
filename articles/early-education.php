@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Child's play = new research | 2012-13 Annual Report on Philanthropy</title>
 <?php include("../includes/sub-header.php"); ?>
-<link href="../../2011-12/css/articles.css" rel="stylesheet" type="text/css" />
+<link href="../css/articles.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
 .photo > .storyimage > .storyimage {
     background-image: url(../images/daycare-center.jpg) !important;
@@ -31,7 +31,7 @@
  
         <!-- LEFT -->
    <div class="article">
-        <img src="../../2011-12/images/story-philanthropy.png" class="title" alt="Philanthropy" style="margin-top:-25px !important;"/>
+        <img src="../images/story-philanthropy.png" class="title" alt="Philanthropy" style="margin-top:-25px !important;"/>
             <div class="image"><div class="photo" title="Early Education Services Center"><div class="storyimage"><div class="storyimage"></div></div>
             <div class="sharethis">
 <p><span class='st_facebook_large' displayText='Facebook'></span>
