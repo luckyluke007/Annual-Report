@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Child's play = new research | 2012-13 Annual Report on Philanthropy</title>
-<?php include("../includes/sub-header.php"); ?>
+<?php include("../includes/sub_header.php"); ?>
 <link href="../css/articles.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
 .photo > .storyimage > .storyimage {
@@ -86,4 +86,4 @@ $('.photo > .storyimage > .storyimage').hover(function() {
 });
 </script>
 <div class="clear"></div>
-<?php include("../includes/sub-footer.php"); ?>
+<?php include("../includes/sub_footer.php"); ?>
