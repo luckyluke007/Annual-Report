@@ -17,27 +17,27 @@
 <p>Student Meka Williams's fierce determination to succeed—along with help from campus and private support programs—diverted her from a grim path.</p>
 <p>Read More »</p>
 </li>
-<li>
+<li><img src="images/profiles/konopelski.jpg" width="400" height="400" alt="Joe Konopelski and Nancy Cox-Konopelski" />
   <h3>Way beyond a job</h3>
 <p>The unique and groundbreaking program has supported over 5,000 students since it started in 1986, equivalent to 5 percent of UCSC's total alumni base.</p>
 <p>Read More »</p>
 </li>
-<li>
+<li><img src="images/profiles/rebeles.jpg" width="400" height="400" alt="Rebeles" />
   <h3>Connecting science and justice</h3>
 <p>UCSC's innovative Science and Justice Training Program trains graduate students to think hard about the effects and impacts of their research on society, offering a pathway for science and engineering to connect to social issues and public concerns.</p>
 <p>Read More »</p>
 </li>
-<li>
+<li><img src="images/profiles/david-haussler.jpg" width="400" height="400" alt="David Haussler" />
   <h3>Nobody said we couldn't</h3>
 <p>"I was able to ask the question, what is the molecular basis for cancer? And how can we have a precision treatment? Nobody said I couldn't do that," said David Haussler, director of UCSC's Center for Biomolecular Science and Engineering. "And we built the biggest cancer database in the world—even though we don't even have a med school. Nobody said we couldn't assemble the human genome. So we did!"</p>
 <p>Read More »</p>
 </li>
-<li>
+<li><img src="images/profiles/pehl.jpg" width="400" height="400" alt="Dorothy Everett" />
   <h3>Honoring a 'quietly incredible woman'</h3>
 <p>Mark Headley (Stevenson '83, politics) and his wife, Christina Pehl, decided to make a gift establishing a new endowed chair at UCSC, they wanted to commemorate an extraordinary woman who worked tirelessly for three University of California presidents.</p>
 <p>Read More »</p>
 </li>
-<li>
+<li><img src="images/profiles/josh-stuart.jpg" width="400" height="400" alt="Josh Stuart" />
   <h3>Sparking a relationship between art and science</h3>
 <p>Josh Stuart, professor of biomolecular engineering at UCSC, helped organize the Pan-Cancer Initiative, an international effort across campus using data sciences that could help bring us closer to a time when doctors treat cancer based on patients' genetic profiles—potentially bringing about a massive shift in thinking about the way cancer treatment works. </p>
 <p>Read More »</p>

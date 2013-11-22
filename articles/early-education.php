@@ -31,7 +31,7 @@
  
         <!-- LEFT -->
    <div class="article">
-        <img src="../images/story-philanthropy.png" class="title" alt="Philanthropy" style="margin-top:-25px !important;"/>
+        
             <div class="image"><div class="photo" title="Early Education Services Center"><div class="storyimage"><div class="storyimage"></div></div>
             <div class="sharethis">
 <p><span class='st_facebook_large' displayText='Facebook'></span>

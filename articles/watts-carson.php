@@ -31,7 +31,7 @@
  
         <!-- LEFT -->
    <div class="article">
-        <img src="../images/profound-small.png" class="title" alt="Profound" style="margin-top:-25px !important;"/>
+        
             <div class="image"><div class="photo" title="Carson Watts"><div class="storyimage"><div class="storyimage"></div></div>
             <div class="sharethis">
 <p><span class='st_facebook_large' displayText='Facebook'></span>

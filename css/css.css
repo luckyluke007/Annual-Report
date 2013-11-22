@@ -601,7 +601,6 @@ a:hover.tip span {
 /* STORIES */
 .three-column-left, .three-column-right, .three-column-middle, .article {
     display: block;
-    border-left: 2px solid #00458c;
     float: left;
     padding: 30px 0 0 0;
     margin: 20px 0 0 0;
@@ -625,14 +624,26 @@ a:hover.tip span {
     z-index:10000;
 }
 .article {
+	dislay:block;
+	background: #FFF;
     width: 940px;
     padding: 0 0 0 0 !important;
     margin: 30px 0 0 0 !important;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
 }
 .article .image {
     display: block;
     width: 297px;
     float: left;
+}
+.article > img {
+	border-top-left-radius: 5px;
+	-webkit-border-top-left-radius: 5px;
+	-moz-border-top-left-radius: 5px;
+	-o-border-top-left-radius: 5px;
 }
 .article .bodycontent, .article .headline {
     display: block;
