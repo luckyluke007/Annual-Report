@@ -47,7 +47,7 @@
 <div id="header2012">
   <div class="container"><a href="../index.php"><img src="../images/profiles-in-giving.png" alt="Profiles in Giving" width="240" height="127" border="0" class="logo"/></a>
     <img src="../images/ucsc-philanthropy.png" alt="UCSC - 2012 - 2013 Annual Report on Philanthropy" class="ucsc"/>
-    <a href="https://secure.imodules.com/s/1069/index-2-column.aspx?sid=1069&amp;gid=1&amp;pgid=761&amp;cid=1722" onClick="_gaq.push(['_trackEvent', 'P3', 'P3-Gift-Button 2012-13', 'Make a Gift - P3']);"><img src="../../2011-12/images/ucsc-make-a-gift.png" alt="Make a Gift" title="Make a Gift" width="104" height="109" border="0" class="make-a-gift"/></a>
+    <a href="https://secure.imodules.com/s/1069/index-2-column.aspx?sid=1069&amp;gid=1&amp;pgid=761&amp;cid=1722" onClick="_gaq.push(['_trackEvent', 'P3', 'P3-Gift-Button 2012-13', 'Make a Gift - P3']);"><img src="../images/ucsc-make-a-gift.png" alt="Make a Gift" title="Make a Gift" width="104" height="109" border="0" class="make-a-gift"/></a>
     <ul>
       <li> <a href="../index.php">HOME</a></li>
       <li> <a href="../stories.php">STORIES</a></li>
