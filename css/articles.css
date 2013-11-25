@@ -19,6 +19,7 @@
     background-image: url(../images/article-photos/george-hitchcock.jpg);
     width: 297px;
     height: 494px;
+	border-top-left-radius: 5px !important;
 }
 
 .photo > .storyimage2 {
