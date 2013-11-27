@@ -25,10 +25,10 @@
   </div>
   <!-- END MESSAGE-->
 <video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" width="940" height="529"
-      poster="images/video-image.jpg"data-setup="{}" style="border:0px solid #f2f0e4; -webkit-border-radius: 12px; -moz-border-radius: 12px; border-radius: 12px;" title="P3: Passion. Promise. Philanthropy. Stories of people who are making a difference at UC Santa Cruz. Watch our Thank You video." alt="P3: Passion. Promise. Philanthropy. Stories of people who are making a difference at UC Santa Cruz. Watch our Thank You video.">
-    <source src="http://mediafiles.ucsc.edu/annualreport/2012-13/make_it_happen.mp4" type='video/mp4'/>
-    <source src="http://mediafiles.ucsc.edu/annualreport/2012-13/thank-you.webm" type='video/webm' />
-    <source src="http://mediafiles.ucsc.edu/annualreport/make_it_happen.theora.ogv" type='video/ogg' />
+      poster="images/video-image.png"data-setup="{}" style="border:0px solid #f2f0e4; -webkit-border-radius: 12px; -moz-border-radius: 12px; border-radius: 12px;" title="The Spirit of UCSC" alt="P3: Passion. Promise. Philanthropy. Stories of people who are making a difference at UC Santa Cruz. Watch our Thank You video.">
+    <source src="http://mediafiles.ucsc.edu/annualreport/2012-13/thespiritucsc.mp4" type='video/mp4'/>
+    <source src="http://mediafiles.ucsc.edu/annualreport/2012-13/thespiritucsc.webm" type='video/webm' />
+    <source src="http://mediafiles.ucsc.edu/annualreport/thespiritucsc.theora.ogv" type='video/ogg' />
   </video>
   <script type="text/javascript">
 _V_("example_video_1", {}, function(){
@@ -43,43 +43,43 @@ this.posterImage.show();
 <div class="rotator-container">
 <div id="cbp-qtrotator" class="cbp-qtrotator">
 					<div class="cbp-qtcontent">
-						<img src="images/profiles/donka.jpg" alt="John Dizikes" />
+						<img src="images/profiles/give.jpg" alt="Give. Don't Give In. - Thumb" />
 						<blockquote>
-                        <h2>Outstanding teaching in the humanities</h2>
-						  <p>The Dizikes teaching award—named for professor emeritus of American studies John Dizikes—celebrates the Humanities faculty's commitment to excellence in teaching and its impact on undergraduate students.</p>
-						  <footer>Read More</footer>
+                        <h2>Give. Don't Give In</h2>
+						  <p>UC Santa Cruz is the boldest experiment in the history of public higher education. Our very founding in 1965 was a revolt against the educational status quo.</p>
+						  <footer><a href="articles/give-112013.php">Read More</a></footer>
 						</blockquote>
 					</div>
 					<div class="cbp-qtcontent">
-						<img src="images/profiles/carson.jpg" alt="Carson Watts" />
+						<img src="images/profiles/meka.jpg" alt="Choosing a different path: meet Meka Williams" />
 						<blockquote>
-                        <h2>Gabe Zimmerman's memory lives on in scholarship</h2>
-						  <p>Student Carson Watts was the second winner of the Gabriel Zimmerman Memorial Scholarship, which supports students who are passionate about social issues and committed to public service.</p>
-						  <footer>Read More</footer>
+                        <h2>Choosing a different path: meet Meka Williams</h2>
+						  <p>Student Meka Williams's fierce determination to succeed—along with help from campus and private support programs—diverted her from a grim path.</p>
+						  <footer><a href="articles/meetmeka-112013.php">Read More</a></footer>
 						</blockquote>
 					</div>
 					<div class="cbp-qtcontent">
-						<img src="images/profiles/josh.jpg" alt="img03" />
+						<img src="images/profiles/konopelski.jpg" alt="Way beyond a job: Joe and Nancy Cox-Konopelski" />
 						<blockquote>
-                        <h2>Beyond the comfort zone</h2>
-						  <p>With the help of an Irwin Project Grant, which funds student art projects on campus, art and psychology major Josh Katz launched a new trajectory of art-making.</p>
-						  <footer>Read More</footer>
+                        <h2>Way beyond a job</h2>
+						  <p>The unique and groundbreaking program has supported over 5,000 students since it started in 1986, equivalent to 5 percent of UCSC's total alumni base.</p>
+						  <footer><a href="articles/waybeyondajob-112013.php">Read More</a></footer>
 						</blockquote>
 					</div>
 					<div class="cbp-qtcontent">
-						<img src="images/profiles/karen.jpg" alt="img04" />
+						<img src="images/profiles/rebeles.jpg" alt="Connecting science and justice: Patricia and Rowland Rebeles" />
 						<blockquote>
-                        <h2>Giving back by paying forward</h2>
-						  <p>Karen Rhodes and her husband, fellow Slug Robert Weiner, have been consistent, reliable donors to UC Santa Cruz, providing valuable support for Cowell College, the History Department, scholarships, and more.</p>
-						  <footer>Read More</footer>
+                        <h2>Connecting science and justice</h2>
+						  <p>UCSC's innovative Science and Justice Training Program trains graduate students to think hard about the effects and impacts of their research on society, offering a pathway for science and engineering to connect to social issues and public concerns.</p>
+						  <footer><a href="articles/connecting-112013.php">Read More</a></footer>
 						</blockquote>
 					</div>
                     <div class="cbp-qtcontent">
-						<img src="images/profiles/infant.jpg" alt="img04" />
+						<img src="images/profiles/pehl.jpg" alt="Dorothy Everett" />
 						<blockquote>
-                        <h2>Child's play = new research</h2>
-						  <p>A $165,000 grant to UCSC's Early Education Services has enabled the program to extend childcare hours for students' children and provide an observation room for developmental psychology research.</p>
-						  <footer>Read More</footer>
+                        <h2>Honoring a 'quietly incredible woman'</h2>
+						  <p>Mark Headley (Stevenson '83, politics) and his wife, Christina Pehl, decided to make a gift establishing a new endowed chair at UCSC, they wanted to commemorate an extraordinary woman who worked tirelessly for three University of California presidents.</p>
+						  <footer><a href="articles/incrediblewoman-112013.php">Read More</a></footer>
 						</blockquote>
 					</div>
 				</div>

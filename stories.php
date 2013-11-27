@@ -5,7 +5,7 @@
 
 <title>Stories | 2012-13 Annual Report on Philanthropy</title>
 <?php include("includes/header.php"); ?>
-<link rel="stylesheet" type="text/css" href="css/buttons.css" />
+
 <div class="content">
 
 <h1>Stories</h1>

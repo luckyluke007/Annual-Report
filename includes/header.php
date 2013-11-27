@@ -5,6 +5,8 @@
 <!-- STYLE -->
 <link href="css/css.css" rel="stylesheet" type="text/css" />
 
+<link rel="stylesheet" type="text/css" href="css/buttons.css" />
+
 <!--[if IE 8]>
     <link rel="stylesheet" type="text/css" href="../2012-13/css/ie8.css">
 <![endif]-->
