@@ -47,9 +47,8 @@
 <h2>Using her mind</h2>
 </div>
 <div class="bodycontent">
-  <p>Student Meka Williams's fierce determination to succeed—along with help from campus and private support programs—diverted her from a grim path</p>
   <p>When she was 5, Meka Williams lost her mother to suicide. When she was 8, her father went to prison. </p>
-  <p>The little girl and her two siblings were taken in by an aunt, who raised them in a cramped apartment in Inglewood, Calif. Gun violence and jail stole some of her friends and, if her freshman year of high school was any indication, it didn't seem likely Williams would go to college.</p>
+<p>The little girl and her two siblings were taken in by an aunt, who raised them in a cramped apartment in Inglewood, Calif. Gun violence and jail stole some of her friends and, if her freshman year of high school was any indication, it didn't seem likely Williams would go to college.</p>
   <p>But thanks to her aunt, high school mentors, and a drive that rose up inside her like a hunger, Williams is now a sociology major at Stevenson College and plans to graduate in two years.</p>
   <p>The 19-year-old wants to start her own business and become a television personality one day, but right now she is concentrating on getting the most out of her time at UC Santa Cruz.</p>
   <p>One of her most unforgettable lessons, she said, came from a sociology teacher who told Williams's class that if they wanted to make money, they needed to use their minds. </p>

@@ -55,7 +55,7 @@
     <br />
     When ACE started in 1986, it was groundbreaking, untested, &quot;boldly experimental, 'a nifty idea' kind of program,'' Cox-Konopelski said.<br />
     <br />
-    Since then, the program has helped over 5,000 students, equivalent to 5 percent of UCSC's total alumni base—helps students make their way through UCSC's rigorous STEM courses.<br />
+    Since then, the program has helped thousands of students make their way through UCSC's rigorous STEM courses.<br />
     <br />
     The Konopelskis' love for the program goes beyond their roles at UCSC—Nancy Cox-Konopelski is the program's director, and Joe Konopelski is a chemistry professor. They are also longtime financial supporters.<br />
     <br />

@@ -13,11 +13,11 @@
 <div id="stories-winter">WINTER STORIES</div>
 <div id="stories-container">
 <ul>
-<li><img src="images/profiles/give.jpg" width="400" height="400" alt="Give. Don't Give In - Thumb" />
+<!-- <li><img src="images/profiles/give.jpg" width="400" height="400" alt="Give. Don't Give In - Thumb" />
 <h3>Give. Don't Give In</h3>
 <p>UC Santa Cruz is the boldest experiment in the history of public higher education. Our very founding in 1965 was a revolt against the educational status quo.</p>
 <p><a href="articles/give-112013.php" class="a_button_one">Read More »</a></p>
-</li>
+</li> -->
 <li><img src="images/profiles/meka.jpg" width="400" height="400" alt="Meka Williams" />
   <h3>Choosing a different path: meet Meka Williams</h3>
 <p>Student Meka Williams's fierce determination to succeed—along with help from campus and private support programs—diverted her from a grim path.</p>

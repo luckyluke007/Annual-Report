@@ -48,7 +48,7 @@
 </div>
 <div class="bodycontent">Patricia and Rowland Rebele are happy to be part of a history-making project at UC Santa Cruz.<br />
   <br />
-  With their $1 million kick-off gift, an important part of UCSC's $300 million fundraising campaign, the Rebeles are helping to make into reality the highly anticipated Institute of the Arts and Sciencesm which will offer campus visitors the excitement and discovery of a world class exhibition space, while serving students and faculty as an intellectually vital center of teaching, research, residencies, internships and performance events, and as a social hub for innovative thinking across the university.<br />
+  With their $1 million kick-off gift, an important part of UCSC's $300 million fundraising campaign, the Rebeles are helping to make into reality the highly anticipated Institute of the Arts and Sciences, which will offer campus visitors the excitement and discovery of a world class exhibition space, while serving students and faculty as an intellectually vital center of teaching, research, residencies, internships and performance events, and as a social hub for innovative thinking across the university.<br />
   <br />
   The gift, an important element of UCSC's ongoing $300 million fundraiser,  has a deep personal significance for Patricia Rebele, who fulfilled a lifelong dream to go back to college and immerse herself in art—her favorite subject.<br />
   <br />
