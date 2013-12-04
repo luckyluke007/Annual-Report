@@ -34,7 +34,8 @@
         
             <div class="image"><div class="photo" title="John Dizikes"><div class="storyimage"><div class="storyimage"></div></div>
             <div class="sharethis">
-<p><span class='st_facebook_large' displayText='Facebook'></span>
+<p>
+<div class="share">SHARE THIS:</div> <span class='st_facebook_large' displayText='Facebook'></span>
 <span class='st_twitter_large' displayText='Tweet'></span>
 <span class='st_googleplus_large' displayText='Google +'></span>
 <span class='st_email_large' displayText='Email'></span></p>

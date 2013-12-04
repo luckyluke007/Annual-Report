@@ -679,6 +679,12 @@ line-height: 25px;
     width: 297px;
     text-align: right;
 }
+.article .sharethis .share {
+    display: block;
+    width: auto;
+	float: left;
+	padding: 8px 0 0 20px;
+}
 /* LEGEND */
 .blue, .green, .purple, .cyan, .orange, .light-purple, .red, .brown {
     display: block;
