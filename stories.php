@@ -29,7 +29,7 @@
 <p><a href="articles/waybeyondajob-112013.php" class="a_button_one">Read More »</a></p>
 </li>
 <li><img src="images/profiles/rebeles.jpg" width="400" height="400" alt="Rebeles" />
-  <h3>Connecting science and justice</h3>
+  <h3>Sparking a relationship between art and science</h3>
 <p>UCSC's innovative Science and Justice Training Program trains graduate students to think hard about the effects and impacts of their research on society, offering a pathway for science and engineering to connect to social issues and public concerns.</p>
 <p><a href="articles/connecting-112013.php" class="a_button_one">Read More »</a></p>
 </li>

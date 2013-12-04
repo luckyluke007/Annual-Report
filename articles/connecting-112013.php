@@ -45,7 +45,7 @@
 
 <!-- FINAL -->
 <div class="headline">
-<h2>Connecting science and justice</h2>
+<h2>Sparking a relationship between art and science</h2>
 </div>
 <div class="bodycontent">Patricia and Rowland Rebele are happy to be part of a history-making project at UC Santa Cruz.<br />
   <br />
