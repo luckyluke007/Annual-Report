@@ -20,23 +20,23 @@
 </li> -->
 <li><img src="images/profiles/meka.jpg" width="400" height="400" alt="Meka Williams" />
   <h3>Choosing a different path: meet Meka Williams</h3>
-<p>Student Meka Williams's fierce determination to succeed—along with help from campus and private support programs—diverted her from a grim path.</p>
+<p>Student Meka Williams's fierce determination to succeed—along with help from campus and private support programs—diverted her from a potentially grim future.</p>
 <p><a href="articles/meetmeka-112013.php" class="a_button_one">Read More »</a></p>
 </li>
 <li><img src="images/profiles/konopelski.jpg" width="400" height="400" alt="Joe Konopelski and Nancy Cox-Konopelski" />
   <h3>Way beyond a job</h3>
-<p>The unique and groundbreaking program has supported over 5,000 students since it started in 1986, equivalent to 5 percent of UCSC's total alumni base.</p>
+<p>UCSC's unique and groundbreaking Academic Excellence program has supported thousands of students since it started in 1986.</p>
 <p><a href="articles/waybeyondajob-112013.php" class="a_button_one">Read More »</a></p>
 </li>
 <li><img src="images/profiles/rebeles.jpg" width="400" height="400" alt="Rebeles" />
   <h3>Sparking a relationship between art and science</h3>
-<p>UCSC's innovative Science and Justice Training Program trains graduate students to think hard about the effects and impacts of their research on society, offering a pathway for science and engineering to connect to social issues and public concerns.</p>
+<p>With their $1 million kick-off gift, Patricia and Rowland Rebele are helping to make into reality the highly anticipated Institute of the Arts and Sciences.</p>
 <p><a href="articles/connecting-112013.php" class="a_button_one">Read More »</a></p>
 </li>
 
 <li><img src="images/profiles/pehl.jpg" width="400" height="400" alt="Dorothy Everett" />
   <h3>Honoring a 'quietly incredible woman'</h3>
-<p>Mark Headley (Stevenson '83, politics) and his wife, Christina Pehl, decided to make a gift establishing a new endowed chair at UCSC, they wanted to commemorate an extraordinary woman who worked tirelessly for three University of California presidents.</p>
+<p>When alumnus Mark Headley and his wife, Christina Pehl, decided to make a gift establishing a new endowed chair at UCSC, they wanted to commemorate an extraordinary woman who worked tirelessly for four University of California presidents.</p>
 <p><a href="articles/incrediblewoman-112013.php" class="a_button_one">Read More »</a></p>
 </li>
 </ul>
