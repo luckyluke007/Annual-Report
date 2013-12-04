@@ -7,7 +7,7 @@
 
 <link href="../css/video-js.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" type="text/css" href="css/buttons.css" />
+<link rel="stylesheet" type="text/css" href="../css/buttons.css" />
 
 <!--[if IE 8]>
     <link rel="stylesheet" type="text/css" href="../css/ie8.css">
