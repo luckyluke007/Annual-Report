@@ -10,12 +10,11 @@
 <div class="slidingDiv">
 <div class="message">
 <h1>Chancellor's Message</h1>
-<p>Dear friends of UC Santa Cruz,</p>
-<p>Fall is nearly here, and as the days get shorter and the nights a little chillier, my thoughts turn to the season before us—a season of gratitude.</p>
-<p>I'm grateful for you. You've been with us through thick and thin—and we honor and recognize you. This past year, your generosity helped UC Santa Cruz make great strides, reach new milestones, further traditions, and burnish a reputation that becomes more dazzling every day. I can't wait to see what we can accomplish together this year, and each year after that. </p>
-<p>Because of people like you, UCSC has been able to improve facilities, recognize outstanding faculty and support their research, award scholarships to deserving students, and continue making progress in areas of inquiry that are important to humanity.</p>
-<p>The future is bright for UC Santa Cruz. And you are a part of it. I could not be happier to have you as part of the UCSC family. Thank you.</p>
-<p>Thank you.</p>
+<p>Dear Friends of UC Santa Cruz,</p>
+<p>I hope you are enjoying the changing of the seasons—at last, there's a chill in the air. This is the perfect time for me to thank you for your support of UC Santa Cruz and to share my excitement about UCSC's first-ever comprehensive fundraising campaign. </p>
+<p>We launched the public phase of The Campaign for UC Santa Cruz in October with a lunch celebration on the lawn outside University House. That sweeping view of lower campus and the Monterey Bay always inspires, and it was a delight to announce that we are more than halfway to our goal of raising $300 million for the people, programs, and facilities that make UCSC unique.</p>
+<p>I'm so grateful for your participation, your vision, and your enthusiasm. With your help, this campaign will enhance the experience of undergraduates, the quality of every academic division, and signature initiatives in genomics, coastal sustainability, data science, and the arts and sciences. We are raising support for undergraduate scholarships and graduate fellowships, as well as endowments for academic programs and faculty positions. And won't it be a great day when we can reopen our beloved Quarry Amphitheater?</p>
+<p>The holiday season is upon us, and big things are on the horizon. In partnership with you, I'm confident we will achieve our goals. As we give thanks, I am more grateful than ever for your support. Thank you.</p>
 <p>Sincerely,</p>
 <p><img src="images/signature.png" alt="Chancellor's signature" /><br />
   George Blumenthal<br />
