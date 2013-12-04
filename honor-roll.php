@@ -30,19 +30,12 @@ Search by name, year, affiliation, or gift society
 <!--ROTATOR-->
 <div class="rotator-container">
 <div id="cbp-qtrotator" class="cbp-qtrotator">
-					<div class="cbp-qtcontent">
-						<img src="images/profiles/give.jpg" alt="Give. Don't Give In. - Thumb" />
-						<blockquote>
-                        <h2>Give. Don't Give In</h2>
-						  <p>UC Santa Cruz is the boldest experiment in the history of public higher education. Our very founding in 1965 was a revolt against the educational status quo.</p>
-						  <footer><a href="articles/give-112013.php">Read More</a></footer>
-						</blockquote>
-					</div>
+					
 					<div class="cbp-qtcontent">
 						<img src="images/profiles/meka.jpg" alt="Choosing a different path: meet Meka Williams" />
 						<blockquote>
                         <h2>Choosing a different path: meet Meka Williams</h2>
-						  <p>Student Meka Williams's fierce determination to succeed—along with help from campus and private support programs—diverted her from a grim path.</p>
+						  <p>Student Meka Williams's fierce determination to succeed—along with help from campus and private support programs—diverted her from a potentially grim future.</p>
 						  <footer><a href="articles/meetmeka-112013.php">Read More</a></footer>
 						</blockquote>
 					</div>
@@ -50,15 +43,15 @@ Search by name, year, affiliation, or gift society
 						<img src="images/profiles/konopelski.jpg" alt="Way beyond a job: Joe and Nancy Cox-Konopelski" />
 						<blockquote>
                         <h2>Way beyond a job</h2>
-						  <p>The unique and groundbreaking program has supported over 5,000 students since it started in 1986, equivalent to 5 percent of UCSC's total alumni base.</p>
+						  <p>UCSC's unique and groundbreaking Academic Excellence program has supported thousands of students since it started in 1986.</p>
 						  <footer><a href="articles/waybeyondajob-112013.php">Read More</a></footer>
 						</blockquote>
 					</div>
 					<div class="cbp-qtcontent">
 						<img src="images/profiles/rebeles.jpg" alt="Connecting science and justice: Patricia and Rowland Rebeles" />
 						<blockquote>
-                        <h2>Connecting science and justice</h2>
-						  <p>UCSC's innovative Science and Justice Training Program trains graduate students to think hard about the effects and impacts of their research on society, offering a pathway for science and engineering to connect to social issues and public concerns.</p>
+                        <h2>Sparking a relationship between art and science</h2>
+						  <p>With their $1 million kick-off gift, Patricia and Rowland Rebele are helping to make into reality the highly anticipated Institute of the Arts and Sciences.</p>
 						  <footer><a href="articles/connecting-112013.php">Read More</a></footer>
 						</blockquote>
 					</div>
@@ -66,7 +59,7 @@ Search by name, year, affiliation, or gift society
 						<img src="images/profiles/pehl.jpg" alt="Dorothy Everett" />
 						<blockquote>
                         <h2>Honoring a 'quietly incredible woman'</h2>
-						  <p>Mark Headley (Stevenson '83, politics) and his wife, Christina Pehl, decided to make a gift establishing a new endowed chair at UCSC, they wanted to commemorate an extraordinary woman who worked tirelessly for three University of California presidents.</p>
+						  <p>When alumnus Mark Headley and his wife, Christina Pehl, decided to make a gift establishing a new endowed chair at UCSC, they wanted to commemorate an extraordinary woman who worked tirelessly for four University of California presidents.</p>
 						  <footer><a href="articles/incrediblewoman-112013.php">Read More</a></footer>
 						</blockquote>
 					</div>
