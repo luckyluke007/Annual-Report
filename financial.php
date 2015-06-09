@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Financial | 2012-13 Annual Report on Philanthropy</title>
+<title>Financial | 2014 Annual Report on Philanthropy</title>
 <?php include("includes/header.php"); ?>
 <script src="http://code.highcharts.com/highcharts.js"></script>
 <script src="http://code.highcharts.com/modules/exporting.js"></script>
@@ -12,6 +12,7 @@ $(function () {
     var chart;
     $(document).ready(function() {
         chart = new Highcharts.Chart({
+            colors: ['#4897f1', '#0d233a', '#8bbc21', '#aa1919', '#33c6e7', '#624289', '#ffa85c', '#3D96AE', '#AA4643','#FFCC33'],
             chart: {
                 renderTo: 'purpose2011',
                 plotBackgroundColor: null,
@@ -28,7 +29,7 @@ $(function () {
             },
             tooltip: {
                 formatter: function() {
-                    return '<b>'+ this.point.name +'</b>'+ Math.round(this.percentage*100)/100 +'%';
+                    return '<b>'+ this.point.name +'</b> '+ Math.round(this.percentage*100)/100 +'%';
                 }
                 
             },
@@ -41,7 +42,7 @@ $(function () {
                         color: '#000000',
                         connectorColor: '#000000',
                         formatter: function() {
-                            return '<b>'+ this.point.name +'</b>'+ Math.round(this.percentage) +'%';
+                            return '<b>'+ this.point.name +'</b> '+ Math.round(this.percentage) +'%';
                             
                         }
                         
@@ -55,13 +56,15 @@ $(function () {
                 type: 'pie',
                 name: 'Giving Breakdown',
                 data: [
-                    ['Faculty research',   36.91],
-                    ['Instruction',       5.29],
-                    ['Campus Improvement',18.69],
-                    ['Other purposes',    27.31],
-                    ['Student support',     8.38],
-                    ['Department support',   2.36],
-                    ['Unrestricted',   1.06]
+                    ['Arts Division',   1.00],
+                    ['Campus Life',       3.00],
+                    ['Engineering', 12.00],
+                    ['Humanities',    2.00],
+                    ['Library',     2.00],
+                    ['Office of the Chancellor',   3.00],
+                    ['Phys. and Bio. Sciences',   55.00],
+                    ['Social Sciences',   17.00],
+                    ['Undergrad. education',   4.00]
                 ]
             }]
         });
@@ -78,6 +81,7 @@ $(function () {
     var chart;
     $(document).ready(function() {
         chart = new Highcharts.Chart({
+            colors: ['#4897f1', '#0d233a', '#8bbc21', '#aa1919', '#33c6e7', '#624289'],
             chart: {
                 renderTo: 'private2011',
                 plotBackgroundColor: null,
@@ -94,7 +98,7 @@ $(function () {
             },
             tooltip: {
                 formatter: function() {
-                    return '<b>'+ this.point.name +'</b>'+ Math.round(this.percentage*100)/100 +'%';
+                    return '<b>'+ this.point.name +'</b> '+ Math.round(this.percentage*100)/100 +'%';
                 }
             },
             plotOptions: {
@@ -107,7 +111,7 @@ $(function () {
                         
                         connectorColor: '#000000',
                         formatter: function() {
-                            return '<b>'+ this.point.name +'</b>'+ Math.round(this.percentage) +'%';
+                            return '<b>'+ this.point.name +'</b> '+ Math.round(this.percentage) +'%';
                         }
                         
                     }
@@ -119,12 +123,12 @@ $(function () {
                 type: 'pie',
                 name: 'Giving Breakdown',
                 data: [
-                    ['All alumni',   25.00],
-                    ['Parents',      3.00],
-                    ['Other Individuals',    23.00],
-                    ['Foundations',     17.00],
-                    ['Businesses',   23.00],
-                    ['Other Organizations',  9.00]
+                    ['Alumni',   16.00],
+                    ['Parents',      2.00],
+                    ['Friends of the Campus',    20.00],
+                    ['Foundations',     42.00],
+                    ['Corporations',   17.00],
+                    ['Other Organizations',  2.00]
                 ]
             }]
         });
@@ -321,54 +325,71 @@ $(function () {
 
 <div class="content">
 <h1>Financial Information</h1>
-<div class="desc-text ">Financial data in this report was compiled prior to the completion of the 2012-13 fiscal-year audit of the UC Santa Cruz Foundation. Copies of the Foundation's audited financial statement are available upon request.</div>
+<div class="desc-text ">Financial data in this report was compiled prior to the completion of the 2013-14 fiscal-year audit of the UC Santa Cruz Foundation. Copies of the Foundation's audited financial statement are available upon request.</div>
 <div class="right-noborder">
-<h3>Source of Private Funds: 2013<br />
-(Total: $28,100,248.72)</h3>
+<h3>Source of Private Funds: 2014<br />
+(Total: $50,047,934.37)</h3>
 <div id="private2011" style="width: 460px; margin: -25px 0 -12px 0; padding: 0; float: right;"></div>
 <ul>
-        <li><div class="blue"></div>All Alumni $6,965,283</li>
-        <li><div class="red"></div>Parents $869,975.02</li>
-        <li><div class="purple"></div>Other Individuals $6,485,697</li>
-        <li><div class="cyan"></div>Foundations $4,702,592</li>
-        <li><div class="orange"></div> Businesses $6,550,354</li>
-        <li><div class="light-purple"></div>Other Organizations $2,526,345</li>
+        <li><div class="blue"></div>
+        Alumni $8,145,413.31</li>
+        <li><div class="red"></div>
+        Parents $1,144,982.86</li>
+        <li><div class="green"></div>
+         Friends of the Campus $9,885,011.13</li>
+        <li><div class="purple"></div>
+        Foundations $21,010,892.35</li>
+        <li><div class="cyan"></div> 
+        Corporations $8,752,994.22</li>
+        <li><div class="orange"></div>
+        Other Organizations $1,108,640.50</li>
     </ul>
 </div>
 
 
 <div class="left-noborder">
-<h3>Use of Private Funds: 2013<br />
-(Total:  $28,100,248.72)</h3>
+<h3>Purpose of Private Funds: 2014<br />
+(Total:  $50,047,934.37)</h3>
 <div id="purpose2011" style="width: 460px; margin: -25px 0 -25px 0; padding: 0;"></div>
     <ul>
-        <li><div class="blue"></div>Faculty Research  $10,373,682</li>
-        <li><div class="red"></div>Instruction  $1,488,647</li>
-        <li><div class="green"></div>Campus Improvement  $5,252,154</li>
-        <li><div class="purple"></div>Other Purposes*  $7,671,803</li>
-        <li><div class="cyan"></div>Student Support  $2,354,253</li>
-        <li><div class="orange"></div>Department Support  $662,975</li>
-        <li><div class="light-purple"></div>Unrestricted  $296,729</li>
+        <li><div class="blue"></div>
+        Arts Division  $635,227.77</li>
+        <li><div class="red"></div>
+        Campus Life   $1,683,073.30</li>
+        <li><div class="green"></div>
+        Engineering  $6,053,266.92</li>
+        <li><div class="purple"></div>
+        Humanities  $940,271.68</li>
+        <li><div class="cyan"></div>
+        Library  $882,650.10</li>
+        <li><div class="orange"></div>
+        Office of the Chancellor $1,748,810.82</li>
+        <li><div class="light-purple"></div>
+        Phys. and Bio. Sciences $27,650,757.95</li>
+        <li><div class="brown"></div>
+        Social Sciences $8,461,847.55</li>
+        <li><div class="magenta"></div>
+        Undergrad. education $1,992,028.28</li>
         <li class="last">*Other purposes includes gifts to library operations or endowment, unrestricted campus endowment, and other non-academic units such as the campus art galleries, radio station, Arboretum, and Friends or campus support groups.</li>
         
     </ul>
 </div>
 
-<div class="container" style="margin-top: 80px">
+<!--<div class="container" style="margin-top: 80px">
 <h3 style="color:#00458c !important">UC Santa Cruz Endowment Performance: 2006-2013
 </h3>(Total percentage return for fiscal year ending June 30)
 <div id="endownment" style="min-width: 940px; height: 400px; margin: 0 auto"></div>
-</div>
+</div> -->
 
-<div class="container" style="margin-top: 80px">
+<!-- <div class="container" style="margin-top: 80px">
 <h3 style="color:#00458c !important">Growth of Endowment/Trust/Unitrust</h3>
 <div id="trust" style="width: 940px; height: 400px; margin: 0 auto"></div>
-</div>
+</div> -->
 
-<div class="container" style="margin-top: 80px">
+<!--<div class="container" style="margin-top: 80px">
 <h3 style="color:#00458c !important">Endowment Payouts to Campus</h3>
 <div id="payout" style="width: 940px; height: 400px; margin: 0 auto"></div>
 </div>
-</div>
+</div> -->
 <div class="clear"></div>
 <?php include("includes/footer.php"); ?>

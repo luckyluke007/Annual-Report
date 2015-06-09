@@ -28,8 +28,8 @@
 .cbp-qtrotator .cbp-qtcontent {
 	position: absolute;
 	min-height: 150px;
-	border-top: 1px solid #ddd;
-	border-bottom: 1px solid #ddd;
+	border-top: 2px solid #ddd;
+	border-bottom: 2px solid #ddd;
 	padding: 2em 0;
 	top: 0;
 	z-index: 0;
@@ -61,8 +61,8 @@
 
 .cbp-qtprogress {
 	position: absolute;
-	background: #47a3da;
-	height: 1px;
+	background: #88C425;
+	height: 2px;
 	width: 0%;
 	top: 0;
 	z-index: 1000;

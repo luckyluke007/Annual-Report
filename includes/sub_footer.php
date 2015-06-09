@@ -3,7 +3,7 @@
     <div class="container">
         <div class="left">
         UC SANTA CRUZ, 1156 HIGH STREET, SANTA CRUZ, CA 95064<br />
-© 2012 REGENTS OF THE UNIVERSITY OF CALIFORNIA. ALL RIGHTS RESERVED.
+&copy; 2014 REGENTS OF THE UNIVERSITY OF CALIFORNIA. ALL RIGHTS RESERVED.
         </div>
         <div class="right">
         <span class="social-media">
